@@ -1,0 +1,12 @@
+"node_id","station","state","node_type","latitude","longitude","departing_trips","departing_passengers","departing_revenue","arriving_trips","arriving_passengers","total_throughput","connectivity_degree","avg_platform_util","hub_score"
+1,"BENGALURU","Karnataka","Hub",12.97,77.59,22,687,577165,0,0,687,1,0.367,10
+2,"CHENNAI KILAMBAKKAM KCBT","Tamil Nadu","Hub",12.98,80.25,229,7136,7127355,22,687,7823,10,1,100
+3,"COIMBATORE","Tamil Nadu","Hub",11,76.96,20,605,213835,20,601,1206,2,0.667,20
+4,"MADURAI","Tamil Nadu","Hub",9.93,78.12,24,716,192535,104,3108,3824,5,1,50
+5,"NAGERCOIL","Tamil Nadu","Terminal",8.18,77.43,84,2632,1296605,21,673,3305,4,1,40
+6,"SALEM","Tamil Nadu","Intermediate",11.65,78.16,0,0,0,62,1921,1921,3,1,30
+7,"THANJAVUR","Tamil Nadu","Intermediate",10.79,79.14,21,646,95370,18,571,1217,2,0.65,20
+8,"TIRUCHENDUR","Tamil Nadu","Terminal",8.5,78.12,42,1299,677220,31,973,2272,3,1,30
+9,"TIRUNELVELI","Tamil Nadu","Hub",8.73,77.7,40,1226,590705,58,1872,3098,4,1,40
+10,"TIRUPPUR","Tamil Nadu","Intermediate",11.1,77.34,18,564,143915,26,847,1411,2,0.733,20
+11,"TRICHY","Tamil Nadu","Hub",10.81,78.69,0,0,0,138,4258,4258,6,1,60
