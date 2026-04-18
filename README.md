@@ -28,3 +28,5 @@ R, Shiny, shinydashboard, Plotly, DT, dplyr, lubridate, tidyr
 | `tnstc_network_route_perf.csv` | Route performance metrics |
 | `tnstc_network_nodes.csv` | Network node data |
 | `tnstc_network_transfers.csv` | Transfer connection data |
+## 📱 App Preview
+![App Demo](tnstc-network-demo.gif)
